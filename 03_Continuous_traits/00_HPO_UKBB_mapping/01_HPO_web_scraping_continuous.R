@@ -1,3 +1,5 @@
+#Author: Kaido Lepik
+
 library(readxl)
 library(tidyverse)
 library(data.table)
